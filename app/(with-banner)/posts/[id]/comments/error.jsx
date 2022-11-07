@@ -1,9 +1,9 @@
-'use client';
+'use client'
 
-export default function Error() {
-    return (
-        <div>
-           ❌ Error loading comments!
-        </div>
-    )
+export default function Error () {
+  return (
+    <div>
+      ❌ Error loading comments!
+    </div>
+  )
 }

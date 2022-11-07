@@ -1,3 +1,3 @@
-export default function PostPage({ params }) {
-    return null;
+export default function PostPage ({ params }) {
+  return null
 }
