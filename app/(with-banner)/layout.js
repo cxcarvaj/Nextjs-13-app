@@ -1,4 +1,4 @@
-// import { Counter } from './Counter';
+// Creating a folder and using () to name it we group the files together and create a shared/common layout.
 export default function CommonLayout({ children }) {
   return (
     <div>
